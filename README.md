@@ -6,4 +6,4 @@ Pyhon Flask word Game
 
 ![PFW03](https://github.com/gitZf/Python_Flask_WordGame/blob/master/PFW_03.PNG)
 
-![PFW04](https://github.com/gitZf/Python_Flask_WordGame/blob/master/PFW_04.PNG)
+![PFW04](https://github.com/gitZf/Python_Flask_WordGame/blob/master/PFW_04.png)
